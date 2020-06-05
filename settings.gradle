@@ -1,0 +1,4 @@
+rootProject.name = 'behaviour_data_generation'
+include 'Classifier-Application'
+include 'Engine-Application'
+

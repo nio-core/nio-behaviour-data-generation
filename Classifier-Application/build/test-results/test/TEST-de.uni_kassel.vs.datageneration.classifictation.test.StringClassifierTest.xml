@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.uni_kassel.vs.datageneration.classifictation.test.StringClassifierTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-05T09:55:20" hostname="Workstation" time="0.043">
+  <properties/>
+  <testcase name="testClassifier" classname="de.uni_kassel.vs.datageneration.classifictation.test.StringClassifierTest" time="0.043"/>
+  <system-out><![CDATA[*
+optimization finished, #iter = 0
+obj = 0.0, rho = 0.0
+nSV = 1, nBSV = 0
+*
+optimization finished, #iter = 0
+obj = 0.0, rho = 0.0
+nSV = 1, nBSV = 0
+TRUE
+TRUE
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
