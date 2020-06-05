@@ -1,8 +1,8 @@
 # Behaviour Data Generation
-Repository for behaviour data generation by utilizing chessboard-like games. The extracted skills are to be used for a change management system. 
+Repository for behaviour data generation by utilizing chessboard-like games. The extracted game histories are to be used for a change management system. 
 
 ## Part 1: Generate the data set
-Two engines play several games against each other and thus produce data for learning the classifiers.
+Two engines play several games against each other and thus produce data for training the classifiers.
 
 ### Chess Engines
 - pulse	            https://github.com/fluxroot/pulse
